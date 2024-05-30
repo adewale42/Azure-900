@@ -93,3 +93,47 @@
 ![AZ](./Img/54.PNG)
 ![AZ](./Img/55.PNG)
 ![AZ](./Img/56.PNG)
+
+- ### Interacting with Azure Using Azure Resource Manager
+
+![AZ](./Img/57.PNG)
+![AZ](./Img/58.PNG)
+![AZ](./Img/59.PNG)
+![AZ](./Img/60.PNG)
+
+- ### Understanding Azure Portal
+
+![AZ](./Img/61.PNG)
+![AZ](./Img/62.PNG)
+
+- ### Azure CLI
+- ![AZ](./Img/63.PNG)
+  ![AZ](./Img/64.PNG)
+  ![AZ](./Img/65.PNG)
+
+- ### Azure Powershell
+
+![AZ](./Img/66.PNG)
+![AZ](./Img/67.PNG)
+![AZ](./Img/68.PNG)
+![AZ](./Img/69.PNG)
+![AZ](./Img/70.PNG)
+![AZ](./Img/71.PNG)
+
+- ### Acessing Azure CLoud Shell
+
+![AZ](./Img/72.PNG)
+![AZ](./Img/73.PNG)
+![AZ](./Img/74.PNG)
+![AZ](./Img/75.PNG)
+
+- ### Azure ARM Templates
+
+![AZ](./Img/76.PNG)
+![AZ](./Img/77.PNG)
+![AZ](./Img/78.PNG)
+![AZ](./Img/79.PNG)
+
+- ### Conclusion
+
+![AZ](./Img/80.PNG)
