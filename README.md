@@ -107,9 +107,10 @@
 ![AZ](./Img/62.PNG)
 
 - ### Azure CLI
-- ![AZ](./Img/63.PNG)
-  ![AZ](./Img/64.PNG)
-  ![AZ](./Img/65.PNG)
+
+![AZ](./Img/63.PNG)
+![AZ](./Img/64.PNG)
+![AZ](./Img/65.PNG)
 
 - ### Azure Powershell
 
